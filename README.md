@@ -1,4 +1,4 @@
-# 📊 React Dashboard - Extraordinary UI Edition
+📊  MERN Stack Dashboard - Extraordinary Edition
 
 > A modern, responsive, and extraordinary dashboard application built with React, TypeScript, and Tailwind CSS.  
 > This project goes beyond a standard assignment—delivering innovation, elegant UI, and user-focused design.  
